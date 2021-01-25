@@ -16,5 +16,5 @@ how <br/>
 \- *a lot* of custom tools <br/>
 
 plans for the future <br/>
-\- video system 5 <br/>
-\- davecode.me 2021 edition <br/>
+\- [sequencer (video editor / render manager)](https://github.com/davecaruso/sequencer) <br/>
+\- [davecode.me 2021](https://github.com/davecaruso/davecode.me) <br/>
