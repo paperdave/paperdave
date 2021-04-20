@@ -14,10 +14,7 @@ how <br/>
 \- *a lot* of custom tools <br/>
 
 current projects <br/>
-\- [sequencer (video editor / render manager)](https://github.com/davecaruso/sequencer) <br/>
+\- [video automation system](https://github.com/davecaruso/sequencer) <br/>
+\- making experimental videos
 \- [davecode.me 2021](https://github.com/davecaruso/davecode.me) <br/>
-
-future ideas
-\- unnamed mathematics engine
-\- learning how to make music <br/>
-\- learning how to make long and meaningful videos <br/>
+\- video game <br />
