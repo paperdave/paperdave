@@ -15,6 +15,6 @@ how <br/>
 
 current projects <br/>
 \- [video automation system](https://github.com/davecaruso/sequencer) <br/>
-\- making experimental videos
+\- making experimental videos <br/>
 \- [davecode.me 2021](https://github.com/davecaruso/davecode.me) <br/>
 \- video game <br />
