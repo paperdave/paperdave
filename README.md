@@ -8,7 +8,7 @@
 \- manages a linux server that powers over 20 services from over 10 users. (private) <br/>
 
 how <br/>
-\- linux 5.10 + [nix](https://github.com/davecaruso/config) <br/>
+\- GNU/linux 5.10 + [nix](https://github.com/davecaruso/config) <br/>
 \- node & deno <br/>
 \- too many chromium-powered products <br/>
 \- *a lot* of custom tools <br/>
