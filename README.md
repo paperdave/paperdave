@@ -5,7 +5,7 @@
 \- learning web development, web dev automation + tools, and linux system automation. <br/>
 \- sometimes creates web apps and games <br/>
 \- sometimes creates videos using a weird mix of custom tooling and old software. <br/>
-\- manages a server that powers over 25 services from over 10 users. (private) <br/>
+\- manages a server that powers over 25 services from many different users. (private) <br/>
 
 how <br/>
 \- linux 5.10 + [nix](https://github.com/davecaruso/config) <br/>
