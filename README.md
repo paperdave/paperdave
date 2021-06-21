@@ -8,17 +8,15 @@
 \- manages a server that powers over 25 services from many different users. (private) <br/>
 
 how <br/>
-\- linux 5.10 + [nix](https://github.com/davecaruso/config) <br/>
-\- google chrome <br/>
+\- windows 11
 \- visual studio code <br/>
-\- node.js and deno <br/>
 \- ***a lot*** of custom tools <br/>
 
 why <br/>
 \- unknown <br/>
 
 current projects <br/>
-\- making experimental videos <br/>
+\- [rewrite davecode.me](https://github.com/davecaruso/davecode.me) <br/>
+\- learning music production <br/>
 \- [sequencer](https://github.com/davecaruso/sequencer) <br/>
 \- video game <br />
-\- [rewrite davecode.me](https://github.com/davecaruso/davecode.me) <br/>
