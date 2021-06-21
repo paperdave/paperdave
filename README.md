@@ -2,10 +2,9 @@
 [//]: # (to insert <br/> a lot though, which isnt that nice.                   )
 
 **[dave caruso](https://davecode.me)** <br/>
-\- learning web development, web dev automation + tools, and linux system automation. <br/>
+\- learning web development and computer automation. <br/>
 \- sometimes creates web apps and games <br/>
-\- sometimes creates videos using a weird mix of custom tooling and old software. <br/>
-\- manages a server that powers over 25 services from many different users. (private) <br/>
+\- sometimes creates videos using a weird mix of custom tooling and paid software. <br/>
 
 how <br/>
 \- windows 11
