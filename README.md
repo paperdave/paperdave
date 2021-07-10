@@ -5,17 +5,16 @@
 \- learning web development and computer automation. <br/>
 \- sometimes creates web apps and games <br/>
 \- sometimes creates videos using a weird mix of custom tooling and paid software. <br/>
+\- sometimes creates music without the ability to play instruments. <br/>
 
 how <br/>
-\- windows 11
+\- windows 11 on a dell laptop<br/>
 \- visual studio code <br/>
-\- ***a lot*** of custom tools <br/>
+\- having no life <br/>
 
 why <br/>
 \- unknown <br/>
 
 current projects <br/>
 \- [rewrite davecode.me](https://github.com/davecaruso/davecode.me) <br/>
-\- learning music production <br/>
-\- [sequencer](https://github.com/davecaruso/sequencer) <br/>
-\- video game <br />
+\- [creative toolkit](https://github.com/davecaruso/creative-toolkit) <br/>
