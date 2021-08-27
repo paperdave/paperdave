@@ -8,13 +8,9 @@
 \- sometimes creates music without the ability to play instruments. <br/>
 
 how <br/>
-\- windows 11 on a dell laptop<br/>
-\- visual studio code <br/>
-\- having no life <br/>
+\- windows 11, onedrive, office, and intune<br/>
+\- too many chromium powered apps
+\- a ton of customized tools<br/>
 
 why <br/>
 \- unknown <br/>
-
-current projects <br/>
-\- [rewrite davecode.me](https://github.com/davecaruso/davecode.me) <br/>
-\- [creative toolkit](https://github.com/davecaruso/creative-toolkit) <br/>
