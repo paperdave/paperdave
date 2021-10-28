@@ -8,7 +8,8 @@
 \- sometimes creates music without the ability to play instruments. <br/>
 
 how <br/>
-\- windows 11, onedrive, office, and intune<br/>
+\- windows 11, onedrive, office<br/>
+\- blackmagic fusion 17
 \- too many chromium powered apps
 \- a ton of customized tools<br/>
 
