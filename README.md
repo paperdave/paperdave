@@ -9,8 +9,8 @@
 
 how <br/>
 \- windows 11, onedrive, office<br/>
-\- blackmagic fusion 17
-\- too many chromium powered apps
+\- blackmagic fusion 17<br/>
+\- too many chromium powered apps<br/>
 \- a ton of customized tools<br/>
 
 why <br/>
