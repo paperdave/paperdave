@@ -7,8 +7,6 @@
 \- sometimes creates videos using a weird mix of custom tooling and paid software. <br/>
 \- sometimes creates music without the ability to play instruments. <br/>
 
-note: i have some of my important repositories on private for now, in the next month or two i'll make them public again. sorry for inconvenience.
-
 how <br/>
 \- windows 11, onedrive, office<br/>
 \- blackmagic fusion 17<br/>
