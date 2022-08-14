@@ -1,6 +1,11 @@
 [//]: # (using \- to use the regular - symbol and spacing stuff, we need       )
 [//]: # (to insert <br/> a lot though, which isnt that nice.                   )
 
+<div>
+  <a href="https://paperdave.net/discord"><img alt="discord server" src="https://img.shields.io/discord/516410163230539837?color=5865f2&label=discord"></a>
+</div>
+<br>
+
 [dave *"paperdave"* caruso](https://paperdave.net)&nbsp;&nbsp;&nbsp;&nbsp;<sup>age=18</sup> <br/>
 &nbsp;\- does web development and computer automation. <br/>
 &nbsp;\- sometimes creates web apps and games <br/>
