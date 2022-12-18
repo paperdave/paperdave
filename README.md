@@ -2,15 +2,15 @@
 [//]: # (to insert <br/> a lot though, which isnt that nice.                   )
 
 [dave *"paperdave"* caruso](https://paperdave.net)&nbsp;&nbsp;&nbsp;&nbsp;<sup>age=18</sup> <br/>
-&nbsp;\- does web development and computer automation. <br/>
-&nbsp;\- sometimes creates web apps and games <br/>
-&nbsp;\- sometimes creates videos using a weird mix of custom tooling and paid software. <br/>
-&nbsp;\- sometimes creates music without the ability to play instruments. <br/>
+&nbsp;\- software developer, mostly with web technologies and blender scripting<br/>
+&nbsp;\- video artist with blender and blackmagic fusion<br/>
+&nbsp;\- also songwriting, singing, and music production<br/>
+&nbsp;\- i love automation<br/>
 
 how <br/>
-&nbsp;\- windows 11, edge, office, vscode. <br/>
-&nbsp;\- typescript, svelte, pnpm. <br/>
-&nbsp;\- customized tools. <br/>
+&nbsp;\- arch linux and vscode<br/>
+&nbsp;\- just the right amount of custom software<br/>
+&nbsp;\- endless years trying everything possible <br/>
 
 why <br/>
 &nbsp;\- unknown <br/>
