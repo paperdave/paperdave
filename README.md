@@ -76,8 +76,7 @@ why <br/>
 &nbsp;\- life without creativity gets boring *real* quick <br/><br/>
 
 <div>
-  <a href="https://paperdave.net/discord"><img alt="discord server" src="https://img.shields.io/discord/516410163230539837?color=5865f2&label=discord"></a>
-  
+  <a href="https://paperdave.net/discord"><img alt="discord server" src="https://img.shields.io/discord/516410163230539837?color=5865f2&label=discord"></a><br> 
   <!-- unsure how to present two donate buttons.  -->
   <a href="https://www.buymeacoffee.com/paperdave"><img alt="donate chocolate" src="https://img.shields.io/badge/donate-chocolate-orange"></a>
   <!-- <a href="https://www.patreon.com/paperdave"><img alt="donate patreon" src="https://img.shields.io/badge/-patreon-orange"></a> -->
