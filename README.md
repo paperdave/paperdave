@@ -21,6 +21,12 @@
 |    and the cs classes most of the time feel like the instructor doesnt actually
 |    do real work in the industry but i have a pretty warped perspective on things.
 -->
+&nbsp;- currently looking out for internship and employment opportunities<br/>
+<!--
+|    getting the first internship is so hard. but at the same time i've had no
+|    time with classes and my hobby code happening. hopefully i'll get something by
+|    the summer of 2023 so i'm not stuck doing nothing.
+-->
 &nbsp;- long time linux user on the desktop and server<br/>
 <!--
 |    i originally grabbed Ubuntu on my old two core 8gb ram laptop because windows
