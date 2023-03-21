@@ -76,14 +76,14 @@
 notable projects<br/>
 &nbsp;\- [youtube channel](https://youtube.com/paperdave): my songs and videos. heavily inspired by bill wurtz and many other artists with my own spins.<br/>
 &nbsp;\- [scale of the universe](https://scaleofuniverse.com): modern remake of an educational flash app. i lead the development and manage hosting for a moderately sized userbase.<br/>
-&nbsp;\- [phoenix write](https://paperdave.itch.io/phoenix-write): difficult rhythm/typing video game that won a second place tie in the Ludwig Jam. made in a week with the help of a friend using a web framework.<br/>
+&nbsp;\- [phoenix write](https://paperdave.itch.io/phoenix-write): difficult rhythm/typing video game that won a second place tie in the Ludwig Jam. made in a week with the help of a friend using a web framework. [source](https://github.com/paperdave/phoenix-write)<br/>
 
 why <br/>
 &nbsp;\- life without creativity gets boring *real* quick <br/><br/>
 
+<!-- thank you for reading this. -->
+
 <div>
   <a href="https://paperdave.net/discord"><img alt="discord server" src="https://img.shields.io/discord/516410163230539837?color=5865f2&label=discord"></a><br> 
-  <!-- unsure how to present two donate buttons.  -->
   <a href="https://ko-fi.com/paperdave"><img alt="donate via ko-fi" src="https://img.shields.io/badge/donate-ko--fi-ff69b4"></a>
-  <!-- <a href="https://www.patreon.com/paperdave"><img alt="donate patreon" src="https://img.shields.io/badge/-patreon-orange"></a> -->
 </div>
