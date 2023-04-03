@@ -21,7 +21,7 @@
 |    and the cs classes most of the time feel like the instructor doesnt actually
 |    do real work in the industry but i have a pretty warped perspective on things.
 -->
-&nbsp;- currently looking out for internship and employment opportunities<br/>
+&nbsp;- currently looking out for internship/employment opportunities<br/>
 <!--
 |    getting the first internship is so hard. but at the same time i've had no
 |    time with classes and my hobby code happening. hopefully i'll get something by
