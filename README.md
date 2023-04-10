@@ -15,19 +15,13 @@
 -->
 <div>
 <b><a href="https://paperdave.net">dave <em>"paperdave"</em> caruso</a></b>&nbsp;&nbsp;&nbsp;&nbsp;<sup>age=18</sup><br/>
-&nbsp;- freshman at oakland university for computer science<br/>
+&nbsp;- software engineer at oven, working on <a href="https://bun.sh">bun</a><br/>
 <!--
 |    i gotta say, classes so far are either easy, or are related to calculus.
 |    and the cs classes most of the time feel like the instructor doesnt actually
 |    do real work in the industry but i have a pretty warped perspective on things.
 -->
-&nbsp;- currently looking out for internship/employment opportunities<br/>
-<!--
-|    getting the first internship is so hard. but at the same time i've had no
-|    time with classes and my hobby code happening. hopefully i'll get something by
-|    the summer of 2023 so i'm not stuck doing nothing.
--->
-&nbsp;- long time linux user on the desktop and server<br/>
+&nbsp;- arch linux user<br/>
 <!--
 |    i originally grabbed Ubuntu on my old two core 8gb ram laptop because windows
 |    was so bad at existing and running itself without things going haywire.
@@ -42,7 +36,7 @@
 |    times via hackintosh stuff. all of that was so much fun. it sucks that i cant
 |    try hackintosh on my new desktop, the RTX 3090 would be such a beast on that.
 -->
-&nbsp;- software developer; mostly web tech with typescript<br/>
+<!-- &nbsp;- software developer; mostly web tech with typescript<br/> -->
 <!--
 |    listing every language you know is fucking stupid and pretty useless, but
 |    since someone is going to want to know, i also know lua, python, java, and c++
@@ -73,9 +67,9 @@
 </div>
 
 <!-- maybe ill add more behind the scenes info on these projects later. -->
-notable projects<br/>
-&nbsp;\- [youtube channel](https://youtube.com/paperdave): my songs and videos. heavily inspired by bill wurtz and many other artists with my own spins.<br/>
-&nbsp;\- [scale of the universe](https://scaleofuniverse.com): modern remake of an educational flash app. i lead the development and manage hosting for a moderately sized userbase.<br/>
+notable personal projects<br/>
+&nbsp;\- [youtube channel](https://youtube.com/paperdave): my songs and videos. heavily inspired by bill wurtz and many other artists with my own spins.<br/><!--
+&nbsp;\- [scale of the universe](https://scaleofuniverse.com): modern remake of an educational flash app. i lead the development and manage hosting for a moderately sized userbase.<br/> -->
 &nbsp;\- [phoenix write](https://paperdave.itch.io/phoenix-write): difficult rhythm/typing video game that won a second place tie in the Ludwig Jam. made in a week with the help of a friend using a web framework. [source](https://github.com/paperdave/phoenix-write)<br/>
 
 why <br/>
