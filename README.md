@@ -14,7 +14,7 @@
 |                               -dave
 -->
 <div>
-<b><a href="https://paperdave.net">dave <em>"paperdave"</em> caruso</a></b>&nbsp;&nbsp;&nbsp;&nbsp;<sup>age=18</sup><br/>
+<b><a href="https://paperdave.net">dave <em>"paperdave"</em> caruso</a></b>&nbsp;&nbsp;&nbsp;&nbsp;<sup>age=19</sup><br/>
 &nbsp;- software engineer at oven, working on <a href="https://bun.sh">bun</a><br/>
 <!--
 |    i gotta say, classes so far are either easy, or are related to calculus.
