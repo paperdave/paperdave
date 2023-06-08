@@ -79,5 +79,5 @@ why <br/>
 
 <div>
   <a href="https://paperdave.net/discord"><img alt="discord server" src="https://img.shields.io/discord/516410163230539837?color=5865f2&label=discord"></a><br> 
-  <a href="https://ko-fi.com/paperdave"><img alt="donate via ko-fi" src="https://img.shields.io/badge/donate-ko--fi-ff69b4"></a>
+<!--   <a href="https://ko-fi.com/paperdave"><img alt="donate via ko-fi" src="https://img.shields.io/badge/donate-ko--fi-ff69b4"></a> -->
 </div>
