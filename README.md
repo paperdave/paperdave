@@ -21,7 +21,7 @@
 |    and the cs classes most of the time feel like the instructor doesnt actually
 |    do real work in the industry but i have a pretty warped perspective on things.
 -->
-&nbsp;- arch linux user<br/>
+<!-- &nbsp;- arch linux user<br/> -->
 <!--
 |    i originally grabbed Ubuntu on my old two core 8gb ram laptop because windows
 |    was so bad at existing and running itself without things going haywire.
