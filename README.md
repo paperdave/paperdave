@@ -16,14 +16,15 @@
 <div>
 <b><a href="https://paperdave.net">dave <em>"paperdave"</em> caruso</a></b>&nbsp;&nbsp;&nbsp;&nbsp;<sup>age=20</sup><br/>
 &nbsp;- software engineer at <a href="https://bun.sh">bun</a><br/>
-&nbsp;- computer graphics nerd<br/>
+&nbsp;- loves talking about computer graphics and compiler design<br/>
 &nbsp;- songwriter and music producer<br/>
+&nbsp;- ???<br/>
 <br/>
 </div>
 
 notable personal projects<br/>
 &nbsp;\- [youtube channel](https://youtube.com/paperdave): my songs and videos.<br/>
-&nbsp;\- [phoenix write](https://paperdave.itch.io/phoenix-write): rhythm typing video game that tied second place in the Ludwig Jam. made in a week with the help of a friend. [source](https://github.com/paperdave/phoenix-write)<br/>
+&nbsp;\- [phoenix write](https://paperdave.itch.io/phoenix-write): rhythm typing video game for Ludwig's game jam. made in a week. [source](https://github.com/paperdave/phoenix-write)<br/>
 
 why <br/>
 &nbsp;\- life without creativity gets boring *real* quick <br/><br/>
