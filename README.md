@@ -1,30 +1,16 @@
-<!--
-|    mmm check out all that ugly hardcoded formatting. we need
-|    all these &nbsp;s in order to get the lists to appear as dashed,
-|    which sure is a hack, but it turns out great in my opinion.
-|   
-|    i'm kinda a minimalist.
-|   
-|    also if you're reading this than you're probably someone
-|    who admires me somewhat...
-|    ...or at least this readme you find intriguing.
-|   
-|    i appreciate that. and i just want to say that i love you too
-|    art is destined to rule the world <3
-|                               -davey
--->
 <div>
-<b><a href="https://paperdave.net">dave <em>"paperdave"</em> caruso</a></b>&nbsp;&nbsp;&nbsp;&nbsp;<sup>age=20</sup><br/>
+<b><a href="https://paperdave.net">chloe <em>"paper clover"</em> caruso</a></b>&nbsp;&nbsp;&nbsp;&nbsp;<sup>age=20</sup><br/>
 &nbsp;- software engineer at <a href="https://bun.sh">bun</a><br/>
 &nbsp;- loves talking about computer graphics and compiler design<br/>
 &nbsp;- songwriter and music producer<br/>
-&nbsp;- ???<br/>
+&nbsp;- girl who loves to be cozy<br/>
 <br/>
 </div>
 
 notable personal projects<br/>
-&nbsp;\- [youtube channel](https://youtube.com/paperdave): my songs and videos.<br/>
-&nbsp;\- [phoenix write](https://paperdave.itch.io/phoenix-write): rhythm typing video game for Ludwig's game jam. made in a week. [source](https://github.com/paperdave/phoenix-write)<br/>
+&nbsp;\- [paper clover q+a](https://paperclover.net/q+a): question answer board maintained since 2020.<br/>
+&nbsp;\- [waterfalls](https://paperclover.net/waterfalls): music video.<br/>
+&nbsp;\- [phoenix write](https://paperclover.itch.io/phoenix-write): rhythm typing video game for Ludwig's game jam. made in a week. [source](https://github.com/paperdave/phoenix-write)<br/>
 
 why <br/>
 &nbsp;\- life without creativity gets boring *real* quick <br/><br/>
