@@ -18,5 +18,5 @@ why <br/>
 <!-- thank you for reading this. -->
 
 <div>
-  <a href="https://paperdave.net/discord"><img alt="discord server" src="https://img.shields.io/discord/516410163230539837?color=5865f2&label=discord"></a><br> 
+  <a href="https://discord.gg/4AbvSXV"><img alt="discord server" src="https://img.shields.io/discord/516410163230539837?color=5865f2&label=discord"></a><br> 
 </div>
