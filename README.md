@@ -1,5 +1,5 @@
 <div>
-<b><a href="https://paperdave.net">chloe <em>"paper clover"</em> caruso</a></b>&nbsp;&nbsp;&nbsp;&nbsp;<sup>age=20</sup><br/>
+<b><a href="https://paperclover.net">chloe <em>"paper clover"</em> caruso</a></b>&nbsp;&nbsp;&nbsp;&nbsp;<sup>age=20</sup><br/>
 &nbsp;- software engineer at <a href="https://bun.sh">bun</a><br/>
 &nbsp;- loves talking about computer graphics and compiler design<br/>
 &nbsp;- songwriter and music producer<br/>
