@@ -1,5 +1,5 @@
 <div>
-<b><a href="https://paperclover.net">chloe <em>"paper clover"</em> caruso</a></b>&nbsp;&nbsp;&nbsp;&nbsp;<sup>age=20</sup><br/>
+<b>chloe <em>"paper clover"</em> caruso</b>&nbsp;&nbsp;&nbsp;&nbsp;<sup>age=20</sup><br/>
 &nbsp;- software engineer at work<br/>
 &nbsp;- songwriter, music producer, graphics nerd<br/>
 &nbsp;- girl who loves to be cozy<br/>
