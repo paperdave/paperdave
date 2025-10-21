@@ -7,3 +7,5 @@
 </div>
 
 you can visit my website at [https://paperclover.net](https://paperclover.net)
+
+newest project: [blog: Everyone Hates Next.js](https://paperclover.net/blog/webdev/everyone-hates-nextjs)
