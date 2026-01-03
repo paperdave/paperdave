@@ -8,4 +8,6 @@
 
 you can visit my website at [https://paperclover.net](https://paperclover.net)
 
+i no longer use github for personal activities, though some of my repos are mirrored here for ease of contribution. [go to clover git](https://git.paperclover.net).
+
 newest project: [blog: Everyone Hates Next.js](https://paperclover.net/blog/webdev/everyone-hates-nextjs)
